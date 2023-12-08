@@ -8,4 +8,5 @@ server.listen(3000, () => {
  console.log('Uygulama çalıştırıldı...');
 });
 
-// jenkins deneme
+// jenkins denemesi
+
